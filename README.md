@@ -31,12 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashir-codinghands&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mubashir-codinghands&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-codinghands&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+ <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mubashir-codinghands&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 ---
